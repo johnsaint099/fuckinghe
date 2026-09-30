@@ -29,17 +29,17 @@ import requests
 # ═══════════════════════════════════════════════════════════════
 # CONFIG — edit these only
 # ═══════════════════════════════════════════════════════════════
-BOT_TOKEN = "8860938521:AAEmy9QDqIKSFqz1qTYG_qMqK-1U-pI2nTM"
-ADMIN_IDS = [8632939616]          # your telegram numeric id(s)
-OWNER_USERNAME = "@maisanyvokei"
-CLONE_CREDIT = "Cloned by @maisanyvokei"
-KEY_PREFIX = "ZIA"
-DEFAULT_KEY_HOURS = 1            # hours per redeemed key if not specified
+BOT_TOKEN = "8625000778:AAFZfM6OoCrrEtUgl1VRKwGme2nGNkJpYjQ"
+ADMIN_IDS = [157828443]          # your telegram numeric id(s)
+OWNER_USERNAME = "@Bembem014"
+CLONE_CREDIT = "pogi mo"
+KEY_PREFIX = "yes"
+DEFAULT_KEY_HOURS = 3            # hours per redeemed key if not specified
 FLOOD_COOLDOWN = 1.2             # seconds between commands
 MAX_BROADCAST = 600
 MAX_DOWNLOAD_MB = 50
 LINES_PER_GEN = 1000             # for database generate
-GEN_COOLDOWN = 600               # 10 min for database generate
+GEN_COOLDOWN = 20               # 10 min for database generate
 
 # ═══════════════════════════════════════════════════════════════
 # PATHS
