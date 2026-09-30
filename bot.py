@@ -30,7 +30,7 @@ import requests
 # CONFIG — edit these only
 # ═══════════════════════════════════════════════════════════════
 BOT_TOKEN = "8625000778:AAFZfM6OoCrrEtUgl1VRKwGme2nGNkJpYjQ"
-ADMIN_IDS = [157828443]          # your telegram numeric id(s)
+ADMIN_IDS = [5365004692]          # your telegram numeric id(s)
 OWNER_USERNAME = "@Bembem014"
 CLONE_CREDIT = "pogi mo"
 KEY_PREFIX = "yes"
